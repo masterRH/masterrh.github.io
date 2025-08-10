@@ -8,7 +8,7 @@ excerpt: "一些规划"
 
 # 个人学习规划
 
-明白了！基于你三条主线的需求和阶段产出，我给你设计一个 **6个月分阶段的学习路线+成果产出计划**，保证每个月三条主线都有可见进展，同时技术路线一步步推进：
+基于AI(chatgpt)，规划出我未来的学习路线，并且跟随学习路线逐步的提升个人技能，最终转型成为一名不受公司、地域限制的独立开发者。
 
 ---
 
@@ -64,5 +64,5 @@ excerpt: "一些规划"
 * **健康**：从轻量运动开始，逐渐增加强度，配合饮食记录（可用 app 监督）
 
 
-# 学习规划路线
-主线 React → React Native → GPT 开发 → Rust 后端 → 设计
+# 学习记录
+* **React Web**：跟随Udemy的课程学习 [The Ultimate React Course 2025: React, Next.js, Redux & More](https://www.udemy.com/course/the-ultimate-react-course/?couponCode=25BBPMXINACTIVE)
