@@ -1,0 +1,52 @@
+---
+---
+
+// 直接使用Minima主题，但添加自定义样式
+@import "minima";
+
+// 自定义样式
+.post-preview {
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+  border: 1px solid #e1e1e1;
+  border-radius: 8px;
+  background-color: #fafafa;
+  
+  h3 {
+    margin-top: 0;
+    
+    a {
+      color: #2a7ae2;
+      
+      &:hover {
+        color: #1a5ac2;
+      }
+    }
+  }
+  
+  .post-meta {
+    color: #828282;
+    font-size: 0.9em;
+    margin-bottom: 1rem;
+  }
+  
+  .post-excerpt {
+    color: #111;
+    line-height: 1.6;
+  }
+}
+
+// 分隔线样式
+hr {
+  border: none;
+  border-top: 1px solid #e1e1e1;
+  margin: 2rem 0;
+}
+
+// 文章列表样式
+.post-list {
+  .post-meta {
+    color: #828282;
+    font-size: 0.9em;
+  }
+}
